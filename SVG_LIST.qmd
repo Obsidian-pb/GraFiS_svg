@@ -1,0 +1,41 @@
+---
+title: "Список УГО"
+author: "Малютин О.С."
+date: today
+lang: ru
+version: 0.1
+---
+
+## Источники противопожарного водоснабжения
+
+<small>Папка: `icons/water_sources`</small>
+
+::: {layout-ncol=6}
+![pg.svg](icons/water_sources/pg.svg "ПГ - пожарный гидрант")
+
+![pg_bad.svg](icons/water_sources/pg_bad.svg "ПГ - пожарный гидрант, неисправный")
+
+![pv.svg](icons/water_sources/pv.svg "ПВ - пожарный водоем")
+
+![pv_bad.svg](icons/water_sources/pv_bad.svg "ПВ - пожарный, неисправный")
+:::
+
+
+
+## Пожарные автомобили
+
+<small>Папка: `icons/pa`</small>
+
+::: {layout-ncol=6}
+![pa.svg](icons/pa/pa_common.svg "ПА - пожарный автомобиль, общее обозначение")
+
+
+:::
+
+
+
+:::{.callout-tip}
+# Подсказка
+
+Для отображения описания УГО наведите на него курсор
+:::
