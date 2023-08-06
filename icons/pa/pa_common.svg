@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" 
+<svg height="32" width="16" viewBox="0 0 16 32" xmlns="http://www.w3.org/2000/svg" 
 id="pa_common">
-  <path d="M9,31 L9 8 L16 1 L23 8 L23 31 z" 
+  <path d="M1,31 L1 8 L8 1 L15 8 L15 31 z" 
   stroke="red" 
   stroke-linejoin="round" 
   stroke-width="2" fill="white" />
