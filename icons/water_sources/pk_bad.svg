@@ -3,5 +3,5 @@
 id="pk_bad">
   <path d="M8,1 v4 M5,1 h6"  stroke="red" stroke-width="2" stroke-linecap="round"/>
   <path d="M8,5 A1,1 0 0,1 8,19 A1,1 0 0,1 8,5" stroke="red" stroke-width="2" fill="white" />
-  <path d="M8,5 A1,1 0 0,1 8,19" stroke="red" stroke-width="0" fill="red" />
+  <path d="M15,12 A1,1 0 0,1 1,12" stroke="red" stroke-width="0" fill="red" />
 </svg>
