@@ -15,8 +15,6 @@ version: 0.1
 
 ![pg_bad.svg](icons/water_sources/pg_bad.svg "ПГ - пожарный гидрант, неисправный")
 
-![test.svg](icons/water_sources/test.svg "ПГ - пожарный гидрант, неисправный")
-
 ![pv.svg](icons/water_sources/pv.svg "ПВ - пожарный водоем")
 
 ![pv_bad.svg](icons/water_sources/pv_bad.svg "ПВ - пожарный, неисправный")
@@ -28,6 +26,20 @@ version: 0.1
 ![pk.svg](icons/water_sources/pk.svg "ПК - пожарный кран")
 
 ![pk_bad.svg](icons/water_sources/pk_bad.svg "ПК - пожарный кран, неисправный")
+
+![tower.svg](icons/water_sources/tower.svg "Водонапорная башня")
+
+![tower_bad.svg](icons/water_sources/tower_bad.svg "Водонапорная башня, неисправный")
+
+![kolodec.svg](icons/water_sources/kolodec.svg "Колодец")
+
+![kolodec_bad.svg](icons/water_sources/kolodec_bad.svg "Колодец, неисправный")
+
+![closed.svg](icons/water_sources/closed.svg "Закрытый водоисточник")
+
+![closed_bad.svg](icons/water_sources/closed_bad.svg "Закрытый водоисточник, неисправный")
+
+
 :::
 
 
@@ -39,7 +51,29 @@ version: 0.1
 ::: {layout-ncol=6}
 ![pa.svg](icons/pa/pa_common.svg "ПА - пожарный автомобиль, общее обозначение")
 
-![test.svg](icons/water_sources/test.svg "ПГ - пожарный гидрант, неисправный")
+![ac.svg](icons/pa/ac.svg "АЦ - пожарная автоцистерна")
+
+![anr.svg](icons/pa/anr.svg "АНР - пожарный автомобиль насосно-рукавный")
+
+![app.svg](icons/pa/app.svg "АПП - Пожарный автомобиль первой помощи")
+
+![pns.svg](icons/pa/pns.svg "ПНС - Пожарная автонасосная станция")
+
+![aa.svg](icons/pa/aa.svg "АА - Пожарный аэродромный автомобиль")
+
+![ag.svg](icons/pa/ag.svg "АГ - Пожарный автомобиль газодымозащитной службы")
+
+![alp.svg](icons/pa/alp.svg "АЛП - Пожарная автолаборатория")
+
+![aso.svg](icons/pa/aso.svg "АСО - Пожарный автомобиль связи и освещения")
+
+![at.svg](icons/pa/at.svg "АТ - Пожарно-технический автомобиль")
+
+![al.svg](icons/pa/al.svg "АЛ - пожарная автолестница")
+
+![akp.svg](icons/pa/akp.svg "АКП - пожарный автоподъемник коленчатый")
+
+![atp.svg](icons/pa/atp.svg "АТП - пожарный автоподъемник телескопический")
 
 :::
 

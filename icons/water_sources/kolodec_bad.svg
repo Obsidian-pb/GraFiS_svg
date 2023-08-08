@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" 
+id="kolodec_bad">
+  <path d="M1,1 h14 v14 h-14 z" 
+  stroke="red" 
+  stroke-linejoin="round"
+  stroke-width="2" 
+  fill="white" />
+  <path d="M8,3 A1,1, 0, 1,1, 8,13 A1,1, 0, 1,1, 8,3" 
+  stroke="red" 
+  stroke-width="2"
+  fill="white" />
+</svg>
