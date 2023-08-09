@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="32" width="16" viewBox="0 0 16 32" xmlns="http://www.w3.org/2000/svg" 
+id="adu">
+    <path d="M1,31 L1 8 L8 1 L15 8 L15 31 z" 
+    stroke="red" 
+    stroke-linejoin="round" 
+    stroke-width="2" fill="white" />
+  <g transform="rotate(20 8 18.5)">
+    <path d="M8,14 a1,1 0 0,1 0,9 a1,1 0 0,1 0,-9
+    v9
+    m-2.5,-1 l5,-7"
+    stroke="red"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+    stroke-width="1.5" fill="none" />
+  </g>
+</svg>
