@@ -5,13 +5,11 @@ id="adu">
     stroke="red" 
     stroke-linejoin="round" 
     stroke-width="2" fill="white" />
-  <g transform="rotate(20 8 18.5)">
-    <path d="M8,14 a1,1 0 0,1 0,9 a1,1 0 0,1 0,-9
+    <path transform="rotate(20 8 18.5)" d="M8,14 a1,1 0 0,1 0,9 a1,1 0 0,1 0,-9
     v9
     m-2.5,-1 l5,-7"
     stroke="red"
     stroke-linejoin="round"
     stroke-linecap="round"
     stroke-width="1.5" fill="none" />
-  </g>
 </svg>

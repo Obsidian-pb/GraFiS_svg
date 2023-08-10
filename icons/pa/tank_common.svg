@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="32" width="16" viewBox="0 0 16 32" xmlns="http://www.w3.org/2000/svg" 
+id="tank_common">
+  <path d="M8,1 L1,16 L8,31 L15,16 z" 
+  stroke="red" 
+  stroke-linejoin="round" 
+  stroke-width="2" fill="white" />
+</svg>

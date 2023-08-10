@@ -39,7 +39,6 @@ version: 0.1
 
 ![closed_bad.svg](icons/water_sources/closed_bad.svg "Закрытый водоисточник, неисправный")
 
-
 :::
 
 
@@ -81,6 +80,8 @@ version: 0.1
 
 ![aso.svg](icons/pa/aso.svg "АСО - Пожарный автомобиль связи и освещения")
 
+![asa.svg](icons/pa/asa.svg "АСА - Пожарный аварийно-спасательный автомобиль")
+
 ![at.svg](icons/pa/at.svg "АТ - Пожарно-технический автомобиль")
 
 ![al.svg](icons/pa/al.svg "АЛ - пожарная автолестница")
@@ -90,6 +91,13 @@ version: 0.1
 ![atp.svg](icons/pa/atp.svg "АТП - пожарный автоподъемник телескопический")
 
 ![adu.svg](icons/pa/adu.svg "АПТ - Пожарный автомобиль порошкового тушения")
+
+
+![track_b.svg](icons/pa/track_b.svg "Машина на гусеничном ходу (Б – бульдозер)")
+
+![track_imr.svg](icons/pa/track_imr.svg "Машина на гусеничном ходу (ИМР – инженерная машина разграждения)")
+
+![tank_common.svg](icons/pa/tank_common.svg "Пожарный танк - общее обозначение")
 
 
 :::
