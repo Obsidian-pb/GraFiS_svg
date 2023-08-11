@@ -92,15 +92,35 @@ version: 0.1
 
 ![adu.svg](icons/pa/adu.svg "АПТ - Пожарный автомобиль порошкового тушения")
 
+:::
 
-![track_b.svg](icons/pa/track_b.svg "Машина на гусеничном ходу (Б – бульдозер)")
 
-![track_imr.svg](icons/pa/track_imr.svg "Машина на гусеничном ходу (ИМР – инженерная машина разграждения)")
+## Прочая техника
 
-![tank_common.svg](icons/pa/tank_common.svg "Пожарный танк - общее обозначение")
+<small>Папка: `icons/tech`</small>
 
+::: {layout-ncol=6}
+
+![track_b.svg](icons/tech/track_b.svg "Машина на гусеничном ходу (Б – бульдозер)")
+
+![track_imr.svg](icons/tech/track_imr.svg "Машина на гусеничном ходу (ИМР – инженерная машина разграждения)")
+
+![tank_common.svg](icons/tech/tank_common.svg "Пожарный танк - общее обозначение")
+
+![spec_tech_e.svg](icons/tech/spec_tech_e.svg "Колесные инженерные и специальные машины (Э – эвакуатор)")
+
+![spec_tech_g.svg](icons/tech/spec_tech_g.svg "Колесные инженерные и специальные машины (Г - грейдер)")
+
+![spec_tech_k.svg](icons/tech/spec_tech_k.svg "Колесные инженерные и специальные машины (К - кран)")
+
+![ship.svg](icons/tech/ship.svg "Судно пожарное")
+
+![kater.svg](icons/tech/kater.svg "Катер пожарный")
 
 :::
+
+
+
 
 
 

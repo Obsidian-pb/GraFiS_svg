@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="32" width="16" viewBox="0 0 16 32" xmlns="http://www.w3.org/2000/svg" 
+id="kater">
+  <path d="M8,31 L1,23 L1,9 L8,1 L15,9 L15,23 z" 
+  stroke="red" 
+  stroke-linejoin="round" 
+  stroke-width="2" fill="white" />
+  <path d="M5,12 m0,2 h6 m-3,0 v1 l3,3 m-3,-3 l-3,3"
+  stroke="red"
+  stroke-linejoin="square"
+  stroke-linecap="square"
+  stroke-width="1" fill="none" />
+</svg>

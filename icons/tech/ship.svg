@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="32" width="16" viewBox="0 0 16 32" xmlns="http://www.w3.org/2000/svg" 
+id="ship">
+  <path d="M8,31 L1,23 L1,9 L8,1 L15,9 L15,23 z" 
+  stroke="red" 
+  stroke-linejoin="round" 
+  stroke-width="2" fill="white" />
+</svg>
