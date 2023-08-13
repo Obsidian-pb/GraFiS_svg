@@ -122,6 +122,60 @@ version: 0.1
 
 
 
+## Пожар
+
+<small>Папка: `icons/fire`</small>
+
+::: {layout-ncol=4}
+
+![bang_place.svg](icons/fire/bang_place.svg "Место взрыва")
+
+![bang_place_v1.svg](icons/fire/bang_place_v1.svg "Место взрыва (произошедший взрыв)")
+
+![fire_flag.svg](icons/fire/fire_flag.svg "Очаг пожара")
+
+![fire_spread.svg](icons/fire/fire_spread.svg "Распространение огня")
+
+
+:::
+
+
+
+
+
+## Управление
+
+<small>Папка: `icons/management`</small>
+
+::: {layout-ncol=4}
+
+![hq_flag.svg](icons/management/hq_flag.svg "Штаб пожаротушения")
+
+![rnbd.svg](icons/management/rnbd.svg "Решающее направление боевых действий")
+
+:::
+
+
+
+
+
+
+
+## Общие значки
+
+<small>Папка: `icons/common`</small>
+
+::: {layout-ncol=4}
+
+![arrow_v1_uncolor.svg](icons/common/arrow_v1_uncolor.svg "Стрелка")
+
+:::
+
+
+
+
+
+
 
 
 :::{.callout-tip}

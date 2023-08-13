@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" 
+id="hq_flag">
+  <path d="M8,3
+  h23 v14 h-23 z
+  M8,18
+  l-6,10 h12 z"
+  stroke="red" stroke-width="2" fill="white" />
+  <path d="M16,7
+  v6 h7 v-6 m-3.5,6 v-5"
+  stroke="red" stroke-width="1.5" fill="none" />
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="32" viewBox="0 0 16 32" width="16" xmlns="http://www.w3.org/2000/svg" 
+id="rnbd">
+  <path d="M8,1 
+  l8,8 l-4,0 l4,22 l-8,-4
+  l-8,4 l4,-22 l-4,0 z"
+  fill="param(fill)" 
+  fill-opacity="param(fill-opacity)" 
+  stroke="param(outline)" 
+  stroke-opacity="param(outline-opacity)" 
+  stroke-width="param(outline-width)"/>
+</svg>

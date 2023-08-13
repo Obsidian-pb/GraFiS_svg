@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" 
+id="fire_flag">
+  <path d="M3,31
+  a1,1 0 0,1 0,-4 
+  a1,1 0 0,1 0,4
+  m0,0
+  v-30 h28 v14 h-29" 
+  stroke="red" stroke-width="2" fill="red" />
+</svg>
