@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="32" width="16" viewBox="0 0 16 32" xmlns="http://www.w3.org/2000/svg" 
+id="train">
+  <path d="M1,31 v-10 h3 v-20 h8 v20 h3 v10 z" 
+  stroke="red" 
+  stroke-linejoin="round" 
+  stroke-width="2" fill="white" />
+</svg>

@@ -101,6 +101,8 @@ version: 0.1
 
 ::: {layout-ncol=6}
 
+![avto.svg](icons/tech/avto.svg "Автомобиль, общее обозначение")
+
 ![track_b.svg](icons/tech/track_b.svg "Машина на гусеничном ходу (Б – бульдозер)")
 
 ![track_imr.svg](icons/tech/track_imr.svg "Машина на гусеничном ходу (ИМР – инженерная машина разграждения)")
@@ -116,6 +118,13 @@ version: 0.1
 ![ship.svg](icons/tech/ship.svg "Судно пожарное")
 
 ![kater.svg](icons/tech/kater.svg "Катер пожарный")
+
+![train.svg](icons/tech/train.svg "Поезд пожарный")
+
+
+![medicine.svg](icons/tech/medicine.svg "Автомобиль скорой помощи")
+
+![mvd.svg](icons/tech/mvd.svg "Автомобиль МВД")
 
 :::
 
