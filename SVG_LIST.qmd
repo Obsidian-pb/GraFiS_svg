@@ -167,6 +167,22 @@ version: 0.1
 
 
 
+## Объекты на местности
+
+<small>Папка: `icons/objects`</small>
+
+::: {layout-ncol=6}
+
+![dppbd_ptp.svg](icons/objects/dppbd_ptp.svg "ПТП - План тушения пожара")
+
+![dppbd_ktp.svg](icons/objects/dppbd_ktp.svg "КТП - Карточка тушения пожара")
+
+![dppbd_uncolor.svg](icons/objects/dppbd_uncolor.svg "Документ планирования боевых действий, обесцвеченный")
+
+
+:::
+
+
 
 
 
