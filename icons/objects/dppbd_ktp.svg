@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" 
 id="dppd_ktp">
-  <path d="M6,31 v-30 h20 v30 z" 
-  stroke="blue" 
-  stroke-width="2" 
-  fill="white" />
+  <path d="M6,31 v-30 h20 v30 z"
+  stroke="gray"
+  stroke-width="2"
+  fill="blue" />
   <path d="M10,6 h12 v8 h-12z
   m0,14 h12
   m-10,2 h10 m-10,2 h10 m-10,2 h10"
-  stroke="blue" 
-  stroke-width="1" 
-  fill="white" />  
+  stroke="white"
+  stroke-width="1"
+  fill="white" />
 </svg>

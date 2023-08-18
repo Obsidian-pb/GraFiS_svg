@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" 
+id="r">
+  <path d="M8,1 A1,1 0 0,1 8,15 A1,1 0 0,1 8,1"
+  stroke="red"
+  stroke-width="2"
+  fill="white" />
+  <path d="M6.5,11 v-6 h2 a1,1 0 0,1 0,3 h-2"
+  stroke="red"
+  stroke-width="1"
+  fill="none" />
+</svg>

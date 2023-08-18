@@ -4,6 +4,8 @@ author: "Малютин О.С."
 date: today
 lang: ru
 version: 0.1
+
+toc: true
 ---
 
 ## Источники противопожарного водоснабжения
@@ -161,6 +163,12 @@ version: 0.1
 ![hq_flag.svg](icons/management/hq_flag.svg "Штаб пожаротушения")
 
 ![rnbd.svg](icons/management/rnbd.svg "Решающее направление боевых действий")
+
+![kpp.svg](icons/management/kpp.svg "КПП – контрольно-пропускной пункт")
+
+![pb.svg](icons/management/pb.svg "Р – Регулировщик")
+
+![r.svg](icons/management/r.svg "Р – Регулировщик")
 
 :::
 

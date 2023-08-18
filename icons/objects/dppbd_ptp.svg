@@ -2,13 +2,13 @@
 <svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg" 
 id="dppd_ptp">
   <path d="M6,31 v-30 h20 v30 z" 
-  stroke="red" 
+  stroke="gray" 
   stroke-width="2" 
-  fill="white" />
+  fill="red" />
   <path d="M10,6 h12 v8 h-12z
   m0,14 h12
   m-10,2 h10 m-10,2 h10 m-10,2 h10"
-  stroke="red" 
+  stroke="white" 
   stroke-width="1" 
   fill="white" />   
 </svg>
