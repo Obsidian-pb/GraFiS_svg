@@ -123,6 +123,11 @@ toc: true
 
 ![train.svg](icons/tech/train.svg "Поезд пожарный")
 
+![plane.svg](icons/tech/plane.svg "Самолет пожарный")
+
+![plane_hydro.svg](icons/tech/plane_hydro.svg "Гидросамолет пожарный")
+
+![helicopter.svg](icons/tech/helicopter.svg "Вертолет пожарный")
 
 ![medicine.svg](icons/tech/medicine.svg "Автомобиль скорой помощи")
 

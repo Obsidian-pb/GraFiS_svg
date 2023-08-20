@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="32" width="32" viewBox="0 0 32 32" 
+xmlns="http://www.w3.org/2000/svg" 
+id="plane_hydro">
+  <path d="M14,31 v-28 a1,1 0 0,1 4,0 v28 z
+  M2,17 a1,1 0 1,1 0,-2 h28 a1,1 0 1,1 0,2 z 
+  m4,-6 v10 h1 v-10 z m19,0 v10 h1 v-10 z
+  M10,31 h12 v-1 h-12 z" 
+  stroke="red" 
+  stroke-linejoin="round" 
+  stroke-width="1" fill="red" />
+</svg>
