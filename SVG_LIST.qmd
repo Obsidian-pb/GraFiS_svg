@@ -129,6 +129,10 @@ toc: true
 
 ![helicopter.svg](icons/tech/helicopter.svg "Вертолет пожарный")
 
+![mp_n.svg](icons/tech/mp_n.svg "Мотопомпа переносная")
+
+![mp_p.svg](icons/tech/mp_p.svg "Мотопомпа прицепная")
+
 ![medicine.svg](icons/tech/medicine.svg "Автомобиль скорой помощи")
 
 ![mvd.svg](icons/tech/mvd.svg "Автомобиль МВД")
