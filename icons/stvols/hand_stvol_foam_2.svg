@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="41" viewBox="0 0 8 41" width="8" xmlns="http://www.w3.org/2000/svg" 
+id="hand_stvol_foam_2">
+  <path d="M4 20 L4 39" stroke="black" stroke-width="2" />
+  <path d="M1.5 39 L6.5 39" stroke="black" stroke-width="2" />
+  <path d="M1 20 L4 14 L7 20 L1 20" fill="black" stroke="black" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M1 5 A3 3 0 1 1 7 5 A3 3 0 1 1 1 5 Z" fill="white" stroke="black" stroke-width="1.5" />
+  <path d="M1.9 2.9 L6.1 7.1 M6.1 2.9 L1.9 7.1" stroke="black" stroke-width="1" />
+  <path d="M1 11 A3 3 0 1 1 7 11 A3 3 0 1 1 1 11 Z" fill="white" stroke="black" stroke-width="1.5" />
+  <path d="M1.9 8.9 L6.1 13.1 M6.1 8.9 L1.9 13.1" stroke="black" stroke-width="1" />
+</svg>

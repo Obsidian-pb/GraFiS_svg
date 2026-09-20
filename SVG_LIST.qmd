@@ -140,6 +140,30 @@ toc: true
 :::
 
 
+## ПТВ
+
+<small>Папка: `icons/stvols`</small>
+
+::: {layout-ncol=3}
+
+![hand_stvol_water_1.svg](icons/stvols/hand_stvol_water_1.svg "Ручной водяной ствол (компактные струи)")
+
+![hand_stvol_water_2.svg](icons/stvols/hand_stvol_water_2.svg "Ручной водяной ствол (распыленные струи)")
+
+![hand_stvol_water_3.svg](icons/stvols/hand_stvol_water_3.svg "Ручной водяной ствол (тонкораспыленная вода)")
+
+![hand_stvol_foam_1.svg](icons/stvols/hand_stvol_foam_1.svg "Ручной пенный ствол (низкая кратность)")
+
+![hand_stvol_foam_2.svg](icons/stvols/hand_stvol_foam_2.svg "Ручной пенный ствол (средняя кратность)")
+
+![hand_stvol_foam_3.svg](icons/stvols/hand_stvol_foam_3.svg "Ручной пенный ствол (высокая кратность)")
+
+![kolonka.svg](icons/stvols/kolonka.svg "Пожарная колонка")
+
+![razvetvl.svg](icons/stvols/razvetvl.svg "Разветвление")
+
+:::
+
 
 
 ## Пожар
@@ -212,6 +236,9 @@ toc: true
 ![arrow_v1_uncolor.svg](icons/common/arrow_v1_uncolor.svg "Стрелка")
 
 :::
+
+
+
 
 
 
